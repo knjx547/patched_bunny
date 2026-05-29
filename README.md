@@ -1,10 +1,10 @@
 # patched_bunny
-a discord rat which you can control pc's with.
+A discord RAT.
 
 # SETUP
-first add your discord bot token to ```bot_token```
-then your ```webhook_url``` for infodump
-and then your user id or if you want more add more.
+First add your discord bot token to ```bot_token```
+Then your ```webhook_url``` for infodump
+And then your user id or if you want more add more.
 
 # !commands
 ```
@@ -42,9 +42,9 @@ and then your user id or if you want more add more.
 !logout - log user out of pc
 ```
 
-more commands will be added soon. I just don't know what to add.
-if you have any ideas message me on discord please. 
+More commands will be added soon. I just don't know what to add.
+If you have any ideas message me on discord please. 
 
-i will respond in a few days as this is my 2nd account.
+I will respond in a few days as this is my 2nd account.
 
-discord - miaa.kiss
+Discord - miaa.kiss
