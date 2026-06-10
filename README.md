@@ -46,6 +46,11 @@ displayon - turn display on
 sleep - put infected pc to sleep
 logout - logout user out of infected pc
 ping - check if infected pc is alive
+------------------------------------
+
+special commands:
+`these commands are coming soon`
+
 ```
 
 # ERRORS
