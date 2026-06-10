@@ -49,7 +49,7 @@ ping - check if infected pc is alive
 ------------------------------------
 
 special commands:
-`these commands are coming soon`
+these commands are coming soon
 
 ```
 
