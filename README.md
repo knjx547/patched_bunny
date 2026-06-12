@@ -52,7 +52,4 @@ special commands:
 these commands are coming soon
 
 ```
-
-# ERRORS
-If you get any errors make sure to install requirements.txt, command: pip install -r requirements.txt
 If that doesn't help and you still get errors dm me on discord miaa.kiss
